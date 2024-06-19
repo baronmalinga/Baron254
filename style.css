@@ -1,0 +1,62 @@
+ .sectin-1 {
+    color:orangered ;
+
+}
+.sectin-2 {
+    color: green;
+}
+.sectin-3 { 
+    color: blue;
+}
+#heading{
+    padding-left: 5%;
+}
+p{
+  text-align: center;
+  font-weight: 200;
+  font-size: large;
+  width: 98%;
+  height: 70%;
+  padding-bottom: 50px;
+}
+#images{
+display: flex;
+justify-content: center;
+width: 80%;
+margin: 0 auto;
+gap: 30px;
+}
+.edit{
+    height: 200px;
+    width: 280px;
+    border-radius: 10px;
+}
+.text-1{
+    background-color: orange;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+
+}
+.text-2{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border-radius:5px ;
+    height: 25px;
+}
+.text-3{
+    background-color: green;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+}
+.text-4{
+    background-color: navy;
+    text-align: center;
+    color: white;
+    border-radius: 5px;
+    height: 25px;
+}
